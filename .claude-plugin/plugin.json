@@ -1,0 +1,21 @@
+{
+  "name": "automacao-linkedin",
+  "version": "0.1.0",
+  "description": "Operação completa de conteúdo no LinkedIn para construir autoridade profissional: planejamento semanal com análise de desempenho, método de gancho validado com dados, engajamento diário com gate humano e leitura de métricas e SSI.",
+  "author": {
+    "name": "Matheus Pacheco",
+    "url": "https://matheuspacheco.com.br"
+  },
+  "homepage": "https://github.com/matheusapacheco/automacao-linkedin",
+  "repository": "https://github.com/matheusapacheco/automacao-linkedin",
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "conteudo",
+    "marca-pessoal",
+    "copywriting",
+    "ssi",
+    "autoridade",
+    "social-selling"
+  ]
+}
